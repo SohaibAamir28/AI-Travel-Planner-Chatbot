@@ -4,8 +4,8 @@ The AI Travel Planner Chatbot is designed to revolutionize the way users plan th
 ## Project Overview
 This chatbot utilizes advanced Natural Language Processing (NLP) techniques to understand and process user queries and dynamically generates tailored travel plans that enhance user experience and engagement. The project integrates Google Generative AI and LangChain libraries to handle the complexities of generating human-like text responses.
 
-![Output Chatbot](https://github.com/SohaibAamir28/AI-Travel-Planner-Chatbot/output.png)
-![Flow Chatbot](https://github.com/SohaibAamir28/AI-Travel-Planner-Chatbot/flow.png)
+![Output Chatbot](https://github.com/SohaibAamir28/AI-Travel-Planner-Chatbot/blob/main/output.png)
+![Flow Chatbot](https://github.com/SohaibAamir28/AI-Travel-Planner-Chatbot/blob/main/flow.png)
 
 ## Installation
 
